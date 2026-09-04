@@ -1,0 +1,15 @@
+hotel,market_segment,total_bookings,canceled,avg_adr,avg_lead_time,cancellation_rate_pct
+City Hotel,Online TA,38577,14481,119.41,83.1,37.5
+City Hotel,Offline TA/TO,16643,7166,93.59,142.1,43.1
+City Hotel,Groups,13955,9620,85.04,195.4,68.9
+City Hotel,Direct,6016,1053,120.95,51.9,17.5
+City Hotel,Corporate,2961,639,83.82,25.6,21.6
+City Hotel,Complementary,514,54,2.74,11.4,10.5
+City Hotel,Aviation,231,51,102.74,4.5,22.1
+City Hotel,Undefined,2,2,15.0,1.5,100.0
+Resort Hotel,Online TA,17552,6242,114.58,83.8,35.6
+Resort Hotel,Offline TA/TO,7406,1135,75.33,121.1,15.3
+Resort Hotel,Direct,6433,877,113.06,48.7,13.6
+Resort Hotel,Groups,5804,2473,66.81,167.5,42.6
+Resort Hotel,Corporate,2270,350,52.45,17.8,15.4
+Resort Hotel,Complementary,201,33,3.66,20.0,16.4
