@@ -32,3 +32,15 @@ This project analyzes hotel booking data to identify trends in revenue, pricing,
 - Cancellation rate comparison
 - Market segment breakdown
 - KPI cards for ADR, revenue, and cancellation rate
+
+## Data Source
+
+The original dataset is the [Hotel Booking Demand dataset on Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand), published by Jesse Mostipak.
+
+The `data` folder contains the original raw dataset along with cleaned and summarized CSV files created for this project.
+
+### Processed Data
+- `hotel_bookings_clean.csv` — cleaned booking-level data
+- `kpi_monthly_summary.csv` — monthly hotel performance KPIs
+- `country_summary.csv` — booking metrics summarized by country
+- `segment_summary.csv` — booking metrics summarized by market segment
