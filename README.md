@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing hotel performance across City Hotel and Resort Hotel properties.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Overview
 
